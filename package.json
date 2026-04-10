@@ -1,0 +1,14 @@
+{
+  "name": "real-time-image-annotation",
+  "version": "1.0.0",
+  "description": "Real-Time Collaborative Image Annotation Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
